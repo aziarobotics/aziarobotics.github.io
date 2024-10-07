@@ -5,7 +5,7 @@
 
 ## Lesson 1 - Electronics
 
-### What is Electronics
+### What is electricity
 <video width="720" controls>
   <source src="media/WhatIsElectricity.mp4" type="video/mp4">
 </video>
@@ -16,5 +16,5 @@
 
 [Click Here](https://www.tinkercad.com/joinclass/ALD5WBV3J) to join the class.
 
-### First Circuit: LED Light Up
+### Your first circuit: LED Light Up
 ![Circuit with an LED](media/CircuitLED.png)
