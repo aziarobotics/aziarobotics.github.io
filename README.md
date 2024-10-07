@@ -1,14 +1,20 @@
-# AZIA Robotics
+
+# Welcome to AZIA Robotics!
+
+<img src="media/aziarobotics.jpeg" alt="drawing" width="200"/>
 
 ## Lesson 1 - Electronics
 
 ### What is Electronics
 <video width="720" controls>
-  <source src="WhatIsElectricity.mp4" type="video/mp4">
+  <source src="media/WhatIsElectricity.mp4" type="video/mp4">
 </video>
 
 ### Tinkercad
 
-[Tinkercad.com](tinkercad.com)
+[Tinkercad.com](https://www.tinkercad.com/)
 
 [Click Here](https://www.tinkercad.com/joinclass/ALD5WBV3J) to join the class.
+
+### First Circuit: LED Light Up
+![Circuit with an LED](media/CircuitLED.png)
