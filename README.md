@@ -3,8 +3,8 @@
 ## Lesson 1 - Electronics
 
 ### What is Electronics
-<video width="320" height="240" controls>
-  <source src="video.mov" type="video/mp4">
+<video width="720" controls>
+  <source src="WhatIsElectricity.mp4" type="video/mp4">
 </video>
 
 ### Tinkercad
