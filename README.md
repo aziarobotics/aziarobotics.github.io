@@ -3,18 +3,33 @@
 
 <img src="media/aziarobotics.jpeg" alt="drawing" width="200"/>
 
-## Lesson 1 - Electronics
+## Lesson 1 - Your first cicruit!
 
-### What is electricity
-<video width="720" controls>
+### Activity 1.1: What is electricity
+
+<video width="320" controls>
   <source src="media/WhatIsElectricity.mp4" type="video/mp4">
 </video>
 
-### Tinkercad
+### Activity 1.2: Join Tinkercad
 
-[Tinkercad.com](https://www.tinkercad.com/)
+To join, either go to [Tinkercad.com](https://www.tinkercad.com/) and use class code: **ALD5WBV3J** 
 
-[Click Here](https://www.tinkercad.com/joinclass/ALD5WBV3J) to join the class.
+or click [here](https://www.tinkercad.com/joinclass/ALD5WBV3J).
 
-### Your first circuit: LED Light Up
-![Circuit with an LED](media/CircuitLED.png)
+### Activity 1.3: Build your first circuit: LED Light Up
+
+<img src="media/CircuitLED.png" alt="Circuit with an LED" width="200"/>
+
+## Lesson 2 - Breadboards
+
+### Activity 2.1 What is a breadboard?
+
+[What is a breadboard?](https://safeshare.tv/x/ss670ee6f978725)
+
+### Activity 2.2: Rebuild your circuit using a breadboard.
+
+<img src="media/CircuitLEDBreadboard.png" alt="Circuit with an LED" width="200"/>
+
+### Activity 2.3: Time to build a real one!
+
