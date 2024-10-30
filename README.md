@@ -44,6 +44,7 @@
 </a>
 
 ## Activity 2.3: Your first electronics board!
+<img src="media/CircuitLEDBreadboardReal.jpg" alt="Circuit with an LED" width="300"/>
 
 ---
 
@@ -68,9 +69,12 @@ The Arduino Uno is an open-source microcontroller board.
 <a href="https://www.tinkercad.com/things/lpV9COC3kkY-police-lights?sharecode=ur2_CGVwqUH8utR3qWWX9U6vm1lYEE0Hy2qX7uyMjp0">
 <img src="media/PoliceLights.png" alt="Circuit with an LED" width="300"/>
 </a>
+<img src="media/PoliceLightsReal.gif" alt="Circuit with an LED" width="300"/>
+
 
 ## Activity 4.1: Police Light
 
 <a href="https://www.tinkercad.com/things/in6Os8G8RW8-police-light?sharecode=kYT1VDmRPcPdsL7MLWNJ8bf0cnrNW03Wr10fj5W2Y9s">
 <img src="media/PoliceLight.png" alt="Circuit with an LED" width="300"/>
 </a>
+<img src="media/PoliceLightReal.gif" alt="Circuit with an LED" width="300"/>
