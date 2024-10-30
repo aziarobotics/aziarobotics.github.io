@@ -4,8 +4,7 @@
 
 ---
 
-# 
-# <p style="text-align: center;">Welcome to AZIA Robotics!</p>
+# Welcome to AZIA Robotics!
 
 ---
 
