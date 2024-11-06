@@ -78,3 +78,20 @@ The Arduino Uno is an open-source microcontroller board.
 <img src="media/PoliceLight.png" alt="Circuit with an LED" width="300"/>
 </a>
 <img src="media/PoliceLightReal.gif" alt="Circuit with an LED" width="300"/>
+
+
+---
+
+# Lesson 5 - More LEDs!
+
+## Activity 5.1: RGB LED
+<a href="https://www.tinkercad.com/things/0LXipjWbafo-color-dance?sharecode=G-wO2Oy2t9LWcS-L9NFaBliLWpCNCRV80d87nv1dc40">
+<img src="media/ColorDance.png" alt="Circuit with an LED" width="300"/>
+</a>
+
+
+## Activity 5.1: Seven Segment Display
+
+<a href="https://www.tinkercad.com/things/bwYNRMFTalQ-7-segment-display?sharecode=j_pVCZGWvSTbjinV6Fpz6uLiqsnT3OWjOKILNFnm1do">
+<img src="media/SevenSegmentDisplay.png" alt="Circuit with an LED" width="300"/>
+</a>
