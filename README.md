@@ -89,9 +89,31 @@ The Arduino Uno is an open-source microcontroller board.
 <img src="media/ColorDance.png" alt="Circuit with an LED" width="300"/>
 </a>
 
-
 ## Activity 5.1: Seven Segment Display
 
 <a href="https://www.tinkercad.com/things/bwYNRMFTalQ-7-segment-display?sharecode=j_pVCZGWvSTbjinV6Fpz6uLiqsnT3OWjOKILNFnm1do">
 <img src="media/SevenSegmentDisplay.png" alt="Circuit with an LED" width="300"/>
+</a>
+
+---
+
+# Lesson 6 - Create a BUZZ!
+
+## Activity 1 - Create a Buzz using the Active Buzzer
+<a href="https://www.tinkercad.com/things/d9Hjw1dZtHB-create-a-buzz?sharecode=2bmrhGOI9B9uru9MMKzKUwgUzVB8cVqDvyrLGxAZhOA">
+<img src="media/ActiveBuzzer.png" alt="Circuit with an LED" width="300"/>
+</a>
+
+## Activity 2 - Play some tones using the passive buzzer
+<a href="https://www.tinkercad.com/things/ce3XTtNKLCr-play-notes">
+<img src="media/PassiveBuzzer.png" alt="Circuit with an LED" width="300"/>
+</a>
+
+---
+
+# Lesson 7 - Servo Motors
+
+## Activity 1 - Control a servo using the Uno
+<a href="https://www.tinkercad.com/things/6aoGvX3F2mJ-servo-motor?sharecode=7VQgRXICtEOqiOwtePZeGYq7Tx56xfQ8hNOXYFr4GGI">
+<img src="media/Servo.png" alt="Circuit with an LED" width="300"/>
 </a>
