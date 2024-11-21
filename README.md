@@ -83,6 +83,7 @@ The Arduino Uno is an open-source microcontroller board.
 ---
 
 # Lesson 5 - More LEDs!
+[Download instructions](media/Lesson5.pdf).
 
 ## Activity 5.1: RGB LED
 <a href="https://www.tinkercad.com/things/0LXipjWbafo-color-dance?sharecode=G-wO2Oy2t9LWcS-L9NFaBliLWpCNCRV80d87nv1dc40">
@@ -98,6 +99,7 @@ The Arduino Uno is an open-source microcontroller board.
 ---
 
 # Lesson 6 - Create a BUZZ!
+[Download instructions](media/Lesson6.pdf).
 
 ## Activity 1 - Create a Buzz using the Active Buzzer
 <a href="https://www.tinkercad.com/things/d9Hjw1dZtHB-create-a-buzz?sharecode=2bmrhGOI9B9uru9MMKzKUwgUzVB8cVqDvyrLGxAZhOA">
@@ -112,8 +114,16 @@ The Arduino Uno is an open-source microcontroller board.
 ---
 
 # Lesson 7 - Servo Motors
+[Download instructions](media/Lesson7.pdf).
 
 ## Activity 1 - Control a servo using the Uno
 <a href="https://www.tinkercad.com/things/6aoGvX3F2mJ-servo-motor?sharecode=7VQgRXICtEOqiOwtePZeGYq7Tx56xfQ8hNOXYFr4GGI">
 <img src="media/Servo.png" alt="Circuit with an LED" width="300"/>
 </a>
+
+## Activity 2 - Control two servos
+<a href="https://www.tinkercad.com/things/fDYjRXn7LQb-two-servos?sharecode=7xKxBrs6OdxTNml3ViSBPn6MQ-MlwEdh_USlE6Lop-8">
+<img src="media/TwoServos.png" alt="Circuit with an LED" width="300"/>
+</a>
+
+
