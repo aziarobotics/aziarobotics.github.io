@@ -95,6 +95,7 @@ The Arduino Uno is an open-source microcontroller board.
 <a href="https://www.tinkercad.com/things/bwYNRMFTalQ-7-segment-display?sharecode=j_pVCZGWvSTbjinV6Fpz6uLiqsnT3OWjOKILNFnm1do">
 <img src="media/SevenSegmentDisplay.png" alt="Circuit with an LED" width="300"/>
 </a>
+<img src="media/SevenSegment.gif" alt="Seven Segment" width="300"/>
 
 ---
 
@@ -125,5 +126,6 @@ The Arduino Uno is an open-source microcontroller board.
 <a href="https://www.tinkercad.com/things/fDYjRXn7LQb-two-servos?sharecode=7xKxBrs6OdxTNml3ViSBPn6MQ-MlwEdh_USlE6Lop-8">
 <img src="media/TwoServos.png" alt="Circuit with an LED" width="300"/>
 </a>
+<img src="media/TwoServos.gif" alt="Two Servos" width="300"/>
 
 
