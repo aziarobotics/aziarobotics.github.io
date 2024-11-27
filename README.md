@@ -82,7 +82,7 @@ The Arduino Uno is an open-source microcontroller board.
 ---
 
 # Lesson 5 - More LEDs!
-[Download instructions](media/Lesson5.pdf).
+[Download instructions (PDF)](media/Lesson5.pdf).
 
 ## Activity 5.1: RGB LED
 <a href="https://www.tinkercad.com/things/0LXipjWbafo-color-dance?sharecode=G-wO2Oy2t9LWcS-L9NFaBliLWpCNCRV80d87nv1dc40">
@@ -99,7 +99,7 @@ The Arduino Uno is an open-source microcontroller board.
 ---
 
 # Lesson 6 - Create a BUZZ!
-[Download instructions](media/Lesson6.pdf).
+[Download instructions (PDF))](media/Lesson6.pdf).
 
 ## Activity 1 - Create a Buzz using the Active Buzzer
 <a href="https://www.tinkercad.com/things/d9Hjw1dZtHB-create-a-buzz?sharecode=2bmrhGOI9B9uru9MMKzKUwgUzVB8cVqDvyrLGxAZhOA">
@@ -114,7 +114,7 @@ The Arduino Uno is an open-source microcontroller board.
 ---
 
 # Lesson 7 - Servo Motors
-[Download instructions](media/Lesson7.pdf).
+[Download instructions (PDF)](media/Lesson7.pdf).
 
 ## Activity 1 - Control a servo using the Uno
 <a href="https://www.tinkercad.com/things/6aoGvX3F2mJ-servo-motor?sharecode=7VQgRXICtEOqiOwtePZeGYq7Tx56xfQ8hNOXYFr4GGI">
@@ -126,5 +126,31 @@ The Arduino Uno is an open-source microcontroller board.
 <img src="media/TwoServos.png" alt="Circuit with an LED" width="300"/>
 </a>
 <img src="media/TwoServos.gif" alt="Two Servos" width="300"/>
+
+# Lesson 8 - Push Buttons
+[Download instructions (PDF)](media/Lesson8.pdf).
+
+## Activity 1 - Push Button LED
+<a href="https://www.tinkercad.com/things/bAoS7OGUwqa-push-button-led?sharecode=0c42TnpGSgRNjMewvV26c1h4958UHd7w8keWAkqUaMY">
+<img src="media/PushButtonLED.png" alt="Circuit with an Push button" width="300"/>
+</a>
+
+## Activity 2 - Push Button Toggle Switch
+<a href="https://www.tinkercad.com/things/hpMz4YtSc1V-push-button-toggle?sharecode=-tfxdZXRsdZgU8EW6CXy_lQ99kMbPLZmSAHDnzrnBTM">
+<img src="media/PushButtonLED.png" alt="Toggle Switch an Push button" width="300"/>
+</a>
+
+## Activity 3 - Multiple Push Buttons
+<a href="https://www.tinkercad.com/things/a5IhOUL4Gm4-push-button-leds?sharecode=isWZJOcBjqw2YHuN461juFzd_DLGooG5YP98g9wYIX8">
+<img src="media/PushButtonLEDs.png" alt="Circuit with multiple push buttons" width="300"/>
+</a>
+<br>
+<a href="https://www.tinkercad.com/things/j9jJNYuDBTn-push-button-piano?sharecode=mgqcCC9WfVMeppnQiBgByuiSNvgBhfjGZKDAwdCF92E">
+<img src="media/PushButtonPiano.png" alt="mini piano with multiple push buttons" width="300"/>
+</a>
+<br>
+<a href="https://www.tinkercad.com/things/k5x5SSo4R5U-push-button-controlled-servos?sharecode=H84ehZ0wFDuGTfSrtbYRoePLCW_c2TZpO0eUr7hn210">
+<img src="media/PushButtonServos.png" alt="controlling servos with multiple push buttons" width="300"/>
+</a>
 
 
