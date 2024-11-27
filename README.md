@@ -1,10 +1,9 @@
 
+# AZIA Robotics
 
-<img src="media/aziarobotics.jpeg" alt="drawing" width="50"/>
-
----
-
-# Welcome to AZIA Robotics!
+<p align="center">
+<img src="media/ClassPhotos.png" alt="Circuit with an LED" width="500"/>
+</p>
 
 ---
 
