@@ -153,4 +153,20 @@ The Arduino Uno is an open-source microcontroller board.
 <img src="media/PushButtonServos.png" alt="controlling servos with multiple push buttons" width="300"/>
 </a>
 
+# Lesson 9 - IR Sensor
 
+<a href="https://www.tinkercad.com/things/aBv3V9qtPFW-ir-remote-led?sharecode=HoZH5T583pdWM3HytxBOmZNaNM_dCX46Py-q5Lb0O3w">
+<img src="media/InfraRed.png" alt="" width="300"/>
+</a>
+
+
+
+# Final Project
+
+  - [Check the slides for details](https://docs.google.com/presentation/d/1XlZ5VPjChgm98_WNk0jc0TmquHGMpBSuqFMfBOEFq-A/edit?usp=sharing)
+  
+  - [Join the discord server for help](https://discord.gg/MdtREMcsVq)
+
+  - Learn more about [mechanisms](https://www.youtube.com/playlist?list=PLPF7p1VM8NT_0GTUVw-XRCtiuPDUGx1PF)
+
+  - Learn more about [the other parts in the Elegoo kit](https://www.youtube.com/playlist?list=PLGs0VKk2DiYw-L-RibttcvK-WBZm8WLEP)  - 
