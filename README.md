@@ -167,8 +167,8 @@ The Arduino Uno is an open-source microcontroller board.
   
   - Join the [discord server](https://discord.gg/MdtREMcsVq) for help.
 
-  - Learn more about [mechanisms](https://www.youtube.com/playlist?list=PLPF7p1VM8NT_0GTUVw-XRCtiuPDUGx1PF)
+  - Learn more about [mechanisms](https://www.youtube.com/playlist?list=PLPF7p1VM8NT_0GTUVw-XRCtiuPDUGx1PF).
 
-  - Learn more about the Elegoo kit and other sensors and controllers [in this great youtube playlist](https://www.youtube.com/playlist?list=PLGs0VKk2DiYw-L-RibttcvK-WBZm8WLEP)
+  - To learn more about the Elegoo kit and other sensors and controllers check [this great youtube playlist](https://www.youtube.com/playlist?list=PLGs0VKk2DiYw-L-RibttcvK-WBZm8WLEP).
 
-  - You can download the contents of the CD (PDF, Code, Libraries) from [here](https://drive.google.com/file/d/1SO3fE0uGj5zWoRDyEcqw6EWSEa3kLStb/view?usp=sharing)
+  - You can download the contents of the CD: [PDF](https://drive.google.com/file/d/1xGs8obWWmsI36EdNhZvkDoCoMl-5131X/view?usp=sharing) and [Codes](https://drive.google.com/file/d/1_O-4NPZK8jc7guVtGAVb5xfdfYVYvvpd/view?usp=sharing).
