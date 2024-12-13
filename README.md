@@ -171,4 +171,4 @@ The Arduino Uno is an open-source microcontroller board.
 
   - Learn more about the Elegoo kit and other sensors and controllers [in this great youtube playlist](https://www.youtube.com/playlist?list=PLGs0VKk2DiYw-L-RibttcvK-WBZm8WLEP)
 
-  - You can download the contents of the CD (PDF, Code, Libraries) from [here](https://download.elegoo.com/?t=UNO_R3_Project_Basic_Starter_Kit)  - 
+  - You can download the contents of the CD (PDF, Code, Libraries) from [here](https://drive.google.com/file/d/1SO3fE0uGj5zWoRDyEcqw6EWSEa3kLStb/view?usp=sharing)
